@@ -33,6 +33,31 @@ See [citing-jpc711.bib](citing-jpc711.bib):
 
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3608315.svg)](https://doi.org/10.5281/zenodo.3608315)
+
+
+See [citing-zenodo711.bib](citing-zenodo711.bib):
+
+> Aloni Cohen. (2020, January 14). Code and data for Linear Program Reconstruction in Practice (Version v20200114). Journal of Privacy and Confidentiality. Zenodo. [http://doi.org/10.5281/zenodo.3608315](http://doi.org/10.5281/zenodo.3608315)
+
+```
+@software{aloni_cohen_2020_3608315,
+  author       = {Aloni Cohen},
+  title        = {{Code and data for Linear Program Reconstruction in 
+                   Practice}},
+  month        = jan,
+  year         = 2020,
+  note         = {{NSF Graduate Research Fellowship, Facebook 
+                   Fellowship, NSF Project CNS-1413920}},
+  publisher    = {Zenodo},
+  version      = {v20200114},
+  doi          = {10.5281/zenodo.3608315},
+  url          = {https://doi.org/10.5281/zenodo.3608315}
+}
+```
+
+
+
 ## License
 
 (c) Aloni Cohen. See [MIT LICENSE](LICENSE).
